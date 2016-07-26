@@ -1,3 +1,7 @@
+$(function () {
+  searchTitle('Frozen');
+});
+
 console.log('Running...');
 
 function searchTitle (title) {
